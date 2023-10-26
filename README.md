@@ -1,2 +1,2 @@
 # e_commerce
-e_commerce data 분석 : 아마존 데이터와 무신사 데이터를 기반으로
+![](https://github.com/AsellaS2/e_commerce/assets/69001369/16889255-c77d-4d35-ba5a-ac1a9cb01c72)
