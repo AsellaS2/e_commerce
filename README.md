@@ -3,6 +3,6 @@
 
 ---
 
-- 사용데이터
+사용데이터
 -   [Amazon Canada Products](https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products/data)
 -   [MUSINSA 뷰티/ 신발 data](https://www.musinsa.com/categories/item/005)
