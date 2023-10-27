@@ -135,3 +135,12 @@ reas_not_price_category.head(10)
 price | 1.00 | 0.01 | 0.09
 in_stars|0.01| 1.00|0.08
 review|0.09|0.08|1.00
+
+
+#### musinsa hair care corr
+
+|()| price |in_stars |review|
+|---|---|---|---|  
+price | 1.000000| -0.070175|-0.059726
+stars | -0.070175 | 1.000000 | 0.897146
+review | -0.059726| 0.897146|1.000000
