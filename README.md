@@ -9,7 +9,7 @@
 
 ---
 
-###Q1.list price 가격과 판매가 차이 [26.8%](https://www.busan.com/view/busan/view.php?code=20000511000159) 나는 제품은 얼마나 있는가?
+### Q1.list price 가격과 판매가 차이 [26.8%](https://www.busan.com/view/busan/view.php?code=20000511000159) 나는 제품은 얼마나 있는가?
 
 ```
 listPrice = in_data['listPrice']
@@ -123,6 +123,8 @@ reas_not_price_category.head(10)
 |10순위|스포츠 수집가
 
 ---
+### Q2. 할인이 많이 되는 항목의 상관계수
+
 할인을 많이 하는 품목 중 하나인 헤어 케어 항목을 무신사 데이터에서도 수집해 보았다.
 
 그렇게 아마존 인도와 무신사의 헤어케어 항목에 대한 상관계수는 아래와 같다.
