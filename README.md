@@ -4,5 +4,5 @@
 ---
 
 사용데이터
--   [Amazon Canada Products](https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products/data)
+-   [Amazon Canada Products](https://www.kaggle.com/datasets/asaniczka/amazon-canada-products-2023-2-1m-products/data) 및 [Amazon India Products](https://www.kaggle.com/datasets/asaniczka/amazon-india-products-2023-1-5m-products)
 -   [MUSINSA 뷰티/ 신발 data](https://www.musinsa.com/categories/item/005)
