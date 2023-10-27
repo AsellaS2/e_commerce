@@ -127,9 +127,11 @@ reas_not_price_category.head(10)
 
 그렇게 아마존 인도와 무신사의 헤어케어 항목에 대한 상관계수는 아래와 같다.
 
-####indea hair care corr
 
-          price  in_stars  review
-price      1.00      0.01    0.09
-in_stars   0.01      1.00    0.08
-review     0.09      0.08    1.00
+#### indea hair care corr
+
+|()| price |in_stars |review|
+|---|---|---|---|          
+price | 1.00 | 0.01 | 0.09
+in_stars|0.01| 1.00|0.08
+review|0.09|0.08|1.00
